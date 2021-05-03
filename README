@@ -1,0 +1,11 @@
+# PDF Annotator
+
+## Introduction
+
+This program was made to answer the following problem: read the data from pdf
+files in order to extract useful information from it.
+
+## Method
+
+- Use the google-cloud-vision API for Optical Character Recognition
+- Integrate the app with Google Compute Engine
